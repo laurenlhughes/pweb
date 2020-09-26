@@ -1,0 +1,51 @@
+h2{
+	color: pink;
+	font-size: 25px;
+}
+
+p{
+	color: gray;
+	font-weight: 100;
+	font-size: medium;
+}
+
+#copyright{
+	color: salmon;
+}
+
+.blockquote{
+	background-color: paleturquoise;
+	color: gray;
+	font-style: italic
+}
+
+#main-nav {
+	border-bottom: 1px solid papayawhip;
+	font-size: 1.3em;
+	color: skyblue;
+}
+
+#main-nav a:link,
+#main-nav a:visited {
+	text-decoration: dotted;
+	color: darkcyan;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active {
+	color: coral;
+	text-decoration: underline
+}
+
+h3{
+	color: burlywood;
+	font-weight: lighter;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	border-image-source: -moz-radial-gradient(5);
+}
